@@ -40,7 +40,7 @@ I started as a freelance kid building WordPress sites in 2012. Thirteen years la
 
 ## 🎵 The Non-Code Part
 
-**Music:** I play guitar (badly, but enthusiastically). Music theory fascinates me - there's something beautiful about how math and emotion intersect in a chord progression. Currently trying to figure out how John Mayer makes everything sound so smooth.
+**Music:** I play guitar (badly, but enthusiastically). Music theory fascinates me - there's something beautiful about how math and emotion intersect in a chord progression. Currently trying to figure out how Blackstratblues makes everything sound so smooth.
 
 **Comics:** Started collecting recently - Batman, Swamp Thing, Constantine (DC universe has my heart). There's something about Alan Moore's writing that hits different. If you want to talk about Sandman or argue about the best Batman story arc, I'm your person.
 

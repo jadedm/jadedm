@@ -6,30 +6,31 @@ I've been writing code for 13 years, but I'm more than just a keyboard warrior. 
 
 By day, I architect systems and lead teams. By night (and weekends), you'll find me playing guitar, reading Batman comics, or getting absolutely destroyed in badminton by my colleagues.
 
+With 12 years of experience—from learning design patterns to architecting systems spanning monolithic, serverless, and distributed computing—I'm now building my own startup and consulting independently. These days, I focus on large-scale data pipelines and solving AI problems for companies.
+
 ## 🚀 What I Actually Do
 
 **Right Now:**
-- **Founder @ HyphTech** - Building something from scratch (the fun part) and dealing with everything else (the character-building part)
-- **Technical Consultant** - Companies bring me their "we're not sure how to solve this" problems, and I help them figure it out
+- **Founder @ Hyphn** - Building distributed systems and data infrastructure
+- **Technical Consultant** - Working with innovative companies on large-scale data pipelines and AI integration
 
 **Previously:**
-Led a team of 5+ engineers at Saavi Softwares, where we replaced messy long-running servers with elegant state machine workflows. Before that, spent years building full-stack applications, migrating monoliths to microservices, and learning the hard way that documentation is a love letter to your future self.
+Led teams building production systems processing millions of records daily. Replaced manual batch scripts with distributed pipelines using NestJS, BullMQ, and the Producer-Worker pattern. Before that, spent years building full-stack applications, migrating monoliths to microservices, and learning that documentation is a love letter to your future self.
 
-**The Real Story:**  
-I started as a freelance kid building WordPress sites in 2012. Thirteen years later, I'm architecting distributed systems and running my own startup. The journey from "how do I center a div" to "how do I scale this to 10 million users" has been wild.
-
-## 💻 Tech Stuff (Since You're Probably Here For That)
+## 💻 Tech Stuff
 
 **I build with:**
-- Multiple languages - JavaScript/TypeScript, Python, PHP (and I'm not religious about any of them)
-- Cloud platforms - AWS mostly, but I've worked with Azure and GCP too
-- Distributed systems, microservices, event-driven architectures, and all those buzzwords that actually matter when you're at scale
+- Languages: JavaScript/TypeScript, Python, Rust (learning), PHP
+- Cloud: AWS (S3, CloudFront, Lambda), Azure, GCP
+- Distributed systems: NestJS, BullMQ, Redis, Docker
+- Databases: MySQL, MongoDB, PostgreSQL
+- Game dev: Phaser 2 (for fun projects)
 
 **I think about:**
-- Architecture patterns that survive contact with reality
-- Team structures that don't make people want to quit
-- Documentation that people actually read
-- Tests that catch bugs before customers do
+- Memory-efficient streaming for large datasets
+- Horizontal scaling patterns
+- Fault tolerance and zero data loss
+- Clean architecture that survives production
 - The eternal debate: monolith or microservices? (Answer: it depends)
 
 **I believe in:**
@@ -40,54 +41,37 @@ I started as a freelance kid building WordPress sites in 2012. Thirteen years la
 
 ## 🎵 The Non-Code Part
 
-**Music:** I play guitar (badly, but enthusiastically). Music theory fascinates me - there's something beautiful about how math and emotion intersect in a chord progression. Currently trying to figure out how Blackstratblues makes everything sound so smooth.
+**Music:** I play guitar and explore music theory. Currently figuring out how Blackstratblues makes everything sound so smooth.
 
-**Comics:** Started collecting recently - Batman, Swamp Thing, Constantine (DC universe has my heart). There's something about Alan Moore's writing that hits different. If you want to talk about Sandman or argue about the best Batman story arc, I'm your person.
+**Comics & Stories:** Batman, Swamp Thing, Constantine (DC universe). Alan Moore's writing hits different. Always down to talk about Constantine or debate the best Batman story arc.
 
-**Sports:** Weekends are for getting my ass kicked in badminton, football, and cricket with colleagues. Turns out being good at algorithms doesn't translate to sports. Who knew?
+**Sports:** Weekends are for badminton, football, and cricket. Turns out being good at algorithms doesn't translate to catching a cricket ball.
 
-## 📚 Things I'm Learning Right Now
+## 📝 Digital Garden
 
-- How to build a startup (turns out coding is the easy part)
-- Advanced music theory (why do certain chord progressions make me cry?)
-- How to actually catch a cricket ball (still working on this one)
-- Product management (because founders wear all the hats)
-- When to say no to clients (hardest skill in consulting)
+I maintain a digital garden at [manishj.com/garden](https://manishj.com/garden) where I share:
+- Building distributed pipelines to process 1 crore records daily
+- Pre-LLM era game development with Phaser 2 and Stack Overflow
+- Monte Carlo methods and distributed computing experiments
+- Technical notes at various stages: seedling 🌱, budding 🌿, evergreen 🌳
 
-## 💭 How I Think About Work
+## 🎯 Open To
 
-I've been in the game long enough to know:
-- Perfect code doesn't exist, but good-enough code that ships does
-- The best architecture is the one your team can actually maintain
-- Sometimes you need microservices, sometimes you need a monolith, often you need sleep
-- Good documentation is a superpower
-- The fanciest tech stack won't save you from unclear requirements
+- **Consulting projects** diving deep into data pipelines and distributed systems
+- **Technical advisory** for startups scaling their infrastructure
+- **Interesting conversations** about architecture, music theory, or whether Batman could beat Superman (he could, with prep time)
 
-**My philosophy:** Build things that work. Write code that doesn't make future-you want to time travel back and fight present-you. Treat your team like humans, not resources. And for the love of all that is holy, write tests.
+## 🗣️ Let's Connect
 
-## 🎯 What I'm Looking For
-
-I'm building HyphnTech, but I'm also open to the right opportunities:
-
-- **Consulting projects** where I can dive deep into gnarly technical challenges
-- **Technical advisory** for startups navigating their growth phase
-
-Not interested in:
-- Companies that think "rockstar developer" is a job title
-- Places where "work-life balance" is code for "we don't have any"
-- Roles where I can't actually make decisions
-
-## 🗣️ Let's Talk
-
-Building something interesting? Stuck on a technical problem? Want to debate whether Batman could beat Superman in a real fight? (He could, with prep time - or take over the whole multiverse, Dark Nights: Metal FTW).
-
-Hit me up:
 - 🌐 [manishj.com](https://manishj.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jadhav-manish/)
-- 📧 [Email](hello@manishj.com)
+- 💼 [LinkedIn](https://linkedin.com/in/jadhav-manish)
+- 📧 [hello@manishj.com](mailto:hello@manishj.com)
+
+## 🏢 Companies I'm Working With
+
+- [Hyphn](https://hyphn.tech/) - Data infrastructure and distributed systems
+- [Inoltro](https://inoltro.ai/) - AI-powered solutions
 
 ---
 
-**PS:** If you made it this far, you probably noticed I'm not your typical "senior software engineer with 5+ years experience in..." profile. Good. Those are boring. Life's too short for boring profiles.
-
-**PPS:** Yes, I know Constantine is technically more Vertigo than DC proper. Don't @ me.
+**PS:** If you made it this far, you probably noticed this isn't your typical "senior software engineer with 5+ years experience in..." profile. Good. Those are boring. Life's too short for boring profiles.

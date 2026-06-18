@@ -41,6 +41,19 @@ Previously: Software Architect at Saavi Softwares, Full Stack Developer at Excel
 - Clean code with good documentation
 - Consistency over intensity
 
+## Open Source NestJS Modules
+
+I publish a set of small, focused NestJS modules under the `@jadedm` npm scope. Each one wraps a SaaS primitive behind a clean strategy interface with pluggable providers and stores, so you can self-host common functionality on your own infrastructure.
+
+| Module | Status | Description |
+|---|---|---|
+| [@jadedm/nestjs-verify](https://github.com/jadedm/nestjs-verify) | shipped, 0.2.0 | Self-hosted Twilio Verify-style OTP. Bring your own SMS provider and store. |
+| @jadedm/nestjs-bootstrap | drafting | Logger, config, response envelope, health endpoints, and a meta-package that wires sane defaults. |
+| @jadedm/nestjs-email | planned | Multi-provider email with fallback chain (SES, SendGrid, Resend, Postmark, SMTP). |
+| @jadedm/nestjs-storage | planned | Pluggable object storage across S3, GCS, R2, Azure Blob, local fs. |
+
+If you need integration help, custom provider adapters, or fractional CTO support shipping these into production, see [manishj.com](https://manishj.com).
+
 ## Side Projects
 
 - **[FretVibe](https://fretvibe.co/)** - Guitar learning platform with exercises

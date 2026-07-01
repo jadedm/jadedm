@@ -66,4 +66,5 @@ I maintain a digital garden at [manishj.com/garden](https://manishj.com/garden) 
 
 - Studio: [inoltro.ai](https://inoltro.ai)
 - Personal: [manishj.com](https://manishj.com)
+- npm: [npmjs.com/~jadedm](https://www.npmjs.com/~jadedm)
 - LinkedIn: [linkedin.com/in/manishj07](https://linkedin.com/in/manishj07)

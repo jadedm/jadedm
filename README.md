@@ -2,15 +2,15 @@
 
 **Founder, Inoltro Digital**
 
-I build AI products with founding teams. 12 years shipping software across fintech, sports, hiring and civic tech — previously in software architect and CTO roles.
+I build AI products with founding teams. 12 years shipping software across fintech, sports, hiring and civic tech. Previously in software architect and CTO roles.
 
 ## Current Focus
 
-**[Inoltro Digital LLP](https://inoltro.ai/)** — a small AI product studio. We design, build and ship AI products, agents and data platforms with founding teams. Prototypes in days, production in weeks, outcomes you can measure.
+**[Inoltro Digital LLP](https://inoltro.ai/)** is a small AI product studio. We design, build and ship AI products, agents and data platforms with founding teams. Prototypes in days, production in weeks, outcomes you can measure.
 
 Recent work:
-- **[TryThat.ai](https://trythat.ai/)** — AI-driven real estate super-app (India). Built the product and set up the in-house engineering team.
-- **[Bouncer](https://usebouncer.dev/)** — malware-scanning REST API for developers.
+- **[TryThat.ai](https://trythat.ai/)**: AI-driven real estate super-app (India). Built the product and set up the in-house engineering team.
+- **[Bouncer](https://usebouncer.dev/)**: malware-scanning REST API for developers.
 
 ## Background
 

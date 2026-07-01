@@ -1,24 +1,20 @@
 # Manish Jadhav
 
-**Founder @ Inoltro Digital | Co-founder @ Hyphn**
+**Founder, Inoltro Digital**
 
-Fractional CTO and technology consultant architecting enterprise solutions across industries. 12 years of experience spanning full-stack development, data infrastructure, and AI integration.
+I build AI products with founding teams. 12 years shipping software across fintech, sports, hiring and civic tech — previously in software architect and CTO roles.
 
 ## Current Focus
 
-**Inoltro Digital LLP** - My consulting practice providing technology leadership and end-to-end solutions:
-- Enterprise-scale applications from architecture to deployment
-- Custom AI tools and intelligent workflow automation
-- Data infrastructure and distributed systems
-- Technology strategy and team leadership across industries
+**[Inoltro Digital LLP](https://inoltro.ai/)** — a small AI product studio. We design, build and ship AI products, agents and data platforms with founding teams. Prototypes in days, production in weeks, outcomes you can measure.
 
-**[Hyphn](https://hyphn.tech/)** - Co-founding and building enterprise products:
-- **[Juvo](https://juvo.work/)** - Backend automation for small to mid-size businesses (HRMS, payroll, accounts)
-- **[Welooped](https://welooped.com/)** - Sports management and discovery platform
+Recent work:
+- **[TryThat.ai](https://trythat.ai/)** — AI-driven real estate super-app (India). Built the product and set up the in-house engineering team.
+- **[Bouncer](https://usebouncer.dev/)** — malware-scanning REST API for developers.
 
 ## Background
 
-I have spent 12 years building software systems—from learning design patterns to leading teams that deliver enterprise-scale solutions. My work spans architecting applications from scratch, building custom AI tools, streamlining complex workflows, and providing technology leadership across diverse industries.
+I have spent 12 years building software systems—from learning design patterns to leading teams that deliver production-scale solutions. My work spans architecting applications from scratch, building custom AI tools, streamlining complex workflows, and providing technology leadership across diverse industries.
 
 Previously: Software Architect at Saavi Softwares, Full Stack Developer at Excellarate, Software Engineer at MarketingMuggles, Research Associate at University of Glasgow.
 
@@ -32,7 +28,7 @@ Previously: Software Architect at Saavi Softwares, Full Stack Developer at Excel
 
 **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
 
-**Architecture:** Enterprise systems, distributed computing, event-driven, serverless, microservices, data pipelines
+**Architecture:** Distributed computing, event-driven, serverless, microservices, data pipelines, RAG / agents
 
 ## Approach
 
@@ -52,7 +48,7 @@ I publish a set of small, focused NestJS modules under the `@jadedm` npm scope. 
 | @jadedm/nestjs-email | planned | Multi-provider email with fallback chain (SES, SendGrid, Resend, Postmark, SMTP). |
 | @jadedm/nestjs-storage | planned | Pluggable object storage across S3, GCS, R2, Azure Blob, local fs. |
 
-If you need integration help, custom provider adapters, or fractional CTO support shipping these into production, see [manishj.com](https://manishj.com).
+If you need integration help, custom provider adapters, or hands-on engineering support shipping these into production, see [manishj.com](https://manishj.com).
 
 ## Side Projects
 
@@ -68,13 +64,6 @@ I maintain a digital garden at [manishj.com/garden](https://manishj.com/garden) 
 
 ## Connect
 
-- Website: [manishj.com](https://manishj.com)
+- Studio: [inoltro.ai](https://inoltro.ai)
+- Personal: [manishj.com](https://manishj.com)
 - LinkedIn: [linkedin.com/in/manishj07](https://linkedin.com/in/manishj07)
-- Email: [hello@manishj.com](mailto:hello@manishj.com)
-
-## Currently Working With
-
-- [Inoltro Digital](https://inoltro.ai/) - My consulting practice
-- [Hyphn](https://hyphn.tech/) - Enterprise products
-- [Juvo](https://juvo.work/) - Backend automation for businesses
-- [Welooped](https://welooped.com/) - Sports management platform

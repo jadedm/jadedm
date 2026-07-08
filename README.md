@@ -56,7 +56,6 @@ If you need integration help, custom provider adapters, or hands-on engineering 
 - **[feed-the-cow](https://github.com/jadedm/feed-the-cow)** - Browser arcade game built with Phaser 2
 - **[crux_apps_script](https://github.com/jadedm/crux_apps_script)** - Chrome UX Report data extraction for Google Sheets
 - **[openconnect-gui](https://github.com/jadedm/openconnect-gui)** - macOS GUI for OpenConnect VPN (Electron + React)
-- **[aws-infrastructure](https://github.com/jadedm/aws-infrastructure)** - One-command AWS deployment with Terraform + Ansible
 
 ## Writing
 

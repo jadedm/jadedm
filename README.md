@@ -54,7 +54,7 @@ If you need integration help, custom provider adapters, or hands-on engineering 
 
 - **[FretVibe](https://fretvibe.co/)** - Guitar learning platform with exercises
 - **[feed-the-cow](https://github.com/jadedm/feed-the-cow)** - Browser arcade game built with Phaser 2
-- **[crux_apps_script](https://github.com/jadedm/crux_apps_script)** - Chrome UX Report data extraction for Google Sheets
+- **[crux_apps_script](https://github.com/jadedm/crux_apps_script)** - Chrome UX Report data extraction for Google Sheets, published as an [Apps Script library](https://github.com/jadedm/crux_apps_script#as-a-library)
 - **[openconnect-gui](https://github.com/jadedm/openconnect-gui)** - macOS GUI for OpenConnect VPN (Electron + React)
 
 ## Writing

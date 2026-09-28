@@ -15,6 +15,7 @@ There is nothing to run. The check is the content itself:
 - Every link must resolve for a logged-out visitor. A link to a private repo 404s on the public
   profile (removed in `c4e15de` for that reason). Check with `curl -sI <url>` or
   `gh repo view <owner>/<repo> --json visibility`.
+  npmjs.com answers 403 to curl whatever the page state, so check npm links with `npm view` instead.
 - Version numbers and statuses in the NestJS modules table must match what is actually published:
   `npm view @jadedm/<module> version`.
 - Preview rendering with `gh markdown-preview` if installed, otherwise read the PR's rendered diff.
@@ -27,7 +28,7 @@ The README is personal brand copy under the owner's name.
   dropped deliberately in `1c9b36f`; do not reintroduce it.
 - Never use the self-descriptors fractional, consultant, senior or enterprise-scale. Show seniority
   through facts (years, named products, shipped versions).
-- No em dashes in prose (swept in `8750b3d`). No emojis, no hype words.
+- No em dashes in prose. No emojis, no hype words.
 - Engagement calls to action point at manishj.com; the studio links point at inoltro.ai.
 - The repo description (shown on repo lists and search, not in `README.md`) follows the same rules.
   It is not in git, so a README rebrand does not update it. Read it with

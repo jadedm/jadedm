@@ -14,7 +14,7 @@ Recent work:
 
 ## Background
 
-I have spent 12 years building software systems—from learning design patterns to leading teams that deliver production-scale solutions. My work spans architecting applications from scratch, building custom AI tools, streamlining complex workflows, and providing technology leadership across diverse industries.
+I have spent 12 years building software systems, from learning design patterns to leading teams that deliver production-scale solutions. My work spans architecting applications from scratch, building custom AI tools, streamlining complex workflows, and providing technology leadership across diverse industries.
 
 Previously: Software Architect at Saavi Softwares, Full Stack Developer at Excellarate, Software Engineer at MarketingMuggles, Research Associate at University of Glasgow.
 

@@ -16,8 +16,9 @@ There is nothing to run. The check is the content itself:
   profile (removed in `c4e15de` for that reason). Check with `curl -sI <url>` or
   `gh repo view <owner>/<repo> --json visibility`.
   npmjs.com answers 403 to curl whatever the page state, so check npm links with `npm view` instead.
-- Version numbers and statuses in the NestJS modules table must match what is actually published:
-  `npm view @jadedm/<module> version`.
+- The NestJS modules table carries a status (shipped, drafting, planned), never a version number:
+  versions went stale here (0.5.0 shown while npm had 0.7.0) and the npm and GitHub pages carry
+  them. A "shipped" module must be on npm: `npm view @jadedm/<module> version`.
 - Preview rendering with `gh markdown-preview` if installed, otherwise read the PR's rendered diff.
 
 ## Content rules

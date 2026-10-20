@@ -57,6 +57,6 @@ git push origin main
 The `grep -v` line must print nothing; any line it prints is a commit with another address, and
 the push waits until it is fixed.
 
-Every commit on `main` before #9 carries the old address; history is left as is.
+Every commit on `main` before issue #9 carries the old address; history is left as is.
 
 `AGENTS.md` is a symlink to this file. Edit `CLAUDE.md` only.

@@ -40,4 +40,23 @@ The README is personal brand copy under the owner's name.
 
 Changes go through a branch and PR, not a direct push to `main`. Branch as `docs/<slug>` or
 `chore/<slug>`, conventional commit subject (`docs: ...`), body saying why the change is needed.
-PRs here have been merged with merge commits, not squash.
+PRs are merged with a merge commit, not squash.
+
+Merge locally and push; never use the GitHub merge button, `gh pr merge` or the API. This repo is
+public, and a merge made through GitHub records the account's primary email as the merge commit's
+author. Set `user.email` in this repo to `7683271+jadedm@users.noreply.github.com`, then merge
+the remote branch, so a fix pushed from elsewhere is not left out:
+
+```
+git checkout main && git pull --ff-only
+git merge --no-ff origin/<branch> -m "Merge pull request #<n> from jadedm/<branch>"
+git log --format='%ae %ce' origin/main..HEAD | grep -v '^7683271+jadedm@users.noreply.github.com 7683271+jadedm@users.noreply.github.com$'
+git push origin main
+```
+
+The `grep -v` line must print nothing; any line it prints is a commit with another address, and
+the push waits until it is fixed.
+
+Every commit on `main` before issue #9 carries the old address; history is left as is.
+
+`AGENTS.md` is a symlink to this file. Edit `CLAUDE.md` only.
